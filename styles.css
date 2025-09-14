@@ -27,7 +27,7 @@ body {
 
 .square {
     background-color: white;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     filter: brightness(1);
     transition: filter 0.25s ease-in-out;
 }
